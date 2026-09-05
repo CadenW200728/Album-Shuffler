@@ -57,17 +57,24 @@ musicChoice = st.text_input("shuffles through an artist's albums", )
 st.caption("youtube music only, name the artist or type 'video game' for video game music")
 st.caption("not every artist is here, so pls suggest some if u want")
 if musicChoice:
-    if musicChoice == "kanye" or musicChoice == "Kanye" or musicChoice == "KANYE" or musicChoice == "Ye" or musicChoice == "ye" or musicChoice == "YE" or musicChoice == "Kanye West" or musicChoice == "kanye west" or musicChoice == "KANYE WEST" or musicChoice == "Ye West" or musicChoice == "ye" or musicChoice == "Kanye West" or musicChoice == "kanye west" or musicChoice == "KANYE WEST":
-        webbrowser.open(random.choice(kanye))
-    elif musicChoice == "radiohead" or musicChoice == "Radiohead" or musicChoice == "RADIOHEAD":
-        webbrowser.open(random.choice(radiohead))
-    elif musicChoice == "tyler" or musicChoice == "Tyler" or musicChoice == "TYLER" or musicChoice == "Tyler the Creator" or musicChoice == "tyler the creator" or musicChoice == "TYLER THE CREATOR":
-        webbrowser.open(random.choice(tyler))
-    elif musicChoice == "vg" or musicChoice == "VG" or musicChoice == "Vg" or musicChoice == "Video Game" or musicChoice == "video game" or musicChoice == "VIDEO GAME":
-        webbrowser.open(random.choice(vg))
-    elif musicChoice == "bad music" or musicChoice == "Bad Music" or musicChoice == "BAD MUSIC":
-        webbrowser.open(random.choice(badmusic))
-    else: 
+    choice = musicChoice.lower().strip()
+    
+    if choice in ["kanye", "ye", "kanye west", "ye west"]:
+        url = random.choice(kanye)
+    elif choice == "radiohead":
+        url = random.choice(radiohead)
+    elif choice in ["tyler", "tyler the creator"]:
+        url = random.choice(tyler)
+    elif choice in ["vg", "video game"]:
+        url = random.choice(vg)
+    elif choice == "bad music":
+        url = random.choice(badmusic)
+    else:
+        url = None
+        
+    if url:
+        st.link_button("Open playlist", url)
+    else:
         st.error("who????")
 
 if st.button("wanna add albums? click here"):
