@@ -79,4 +79,4 @@ if musicChoice:
 
 st.link_button("wanna add albums? click here", "https://docs.google.com/forms/d/e/1FAIpQLScHWov8uIiYv_lZKnfjKkjdjZxGSIihmab4VLbwQvvlmmsiUw/viewform?usp=header")
 #python3 -m streamlit run "albumThingy3.py" 
-st.image("album shuffler/images/just-wanted-to-drop-by-and-say-this-is-my-favorite-gif-of-v0-jzr6kdt6bb771.gif.png")
+st.markdown("![kirbee](https://media.tenor.com/ZLHdbFbs26sAAAAj/kirby-cute.gif)")
