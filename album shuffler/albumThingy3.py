@@ -55,7 +55,6 @@ badmusic = ["https://music.youtube.com/playlist?list=OLAK5uy_lcDE9n6x4ySCRHAQ3xh
 st.title("Album Shuffler")
 musicChoice = st.text_input("shuffles through an artist's albums", )
 st.caption("youtube music only, name the artist or type 'video game' for video game music")
-st.caption("not every artist is here, so pls suggest some if u want")
 if musicChoice:
     choice = musicChoice.lower().strip()
     
