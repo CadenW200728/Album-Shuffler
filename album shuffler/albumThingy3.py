@@ -73,7 +73,7 @@ if musicChoice:
         url = None
         
     if url:
-        st.link_button("Open playlist", url)
+        st.link_button("click here pls", url)
     else:
         st.error("who????")
 
