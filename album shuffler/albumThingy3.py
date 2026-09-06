@@ -198,6 +198,11 @@ if musicChoice:
     
     else:
         url = None
+        
+    if url:
+        st.link_button("click here pls", url)
+    else:
+        st.error("who????")
 
 st.link_button("wanna add albums? click here", "https://docs.google.com/forms/d/e/1FAIpQLScHWov8uIiYv_lZKnfjKkjdjZxGSIihmab4VLbwQvvlmmsiUw/viewform?usp=header")
 #python3 -m streamlit run "albumThingy3.py" 
