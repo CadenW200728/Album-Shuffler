@@ -155,9 +155,9 @@ soundtracks = vg + movie
 pop = mj
 
 st.title("Album Shuffler")
-musicChoice = st.text_input("shuffles through an artist's albums", )
-st.caption("youtube music only, name the artist or type 'video game' for video game music")
-st.caption("not every artist is here, so pls suggest some if u want")
+musicChoice = st.text_input("shuffles through an artist's albums or genre", )
+st.caption("youtube music only, name the artist, genre, or soundtrack type (so far this has 'video game' and 'movie', and u can also just put soundtrack for both)")
+st.caption("not every artist n genre is here, so pls suggest some if u want")
 if musicChoice:
     choice = musicChoice.lower().strip()
     
