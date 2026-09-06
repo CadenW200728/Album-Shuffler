@@ -187,7 +187,7 @@ if musicChoice:
         url = random.choice(drake)
     elif choice in ["mj", "michael jackson", "michaeljackson"]:
         url = random.choice(mj)
-    elif choice in ["hip hop", "hiphop", "rap"]:
+    elif choice in ["hip hop", "hiphop", "rap", "hip-hop"]:
         url = random.choice(hiphop)
     elif choice in ["electronic", "edm", "electro"]:
         url = random.choice(electronic)
