@@ -147,16 +147,17 @@ mj = ["https://music.youtube.com/playlist?list=OLAK5uy_kcoRvXuX8AWWr5W2HyOPnwp4i
       "https://music.youtube.com/playlist?list=OLAK5uy_nsZm9AscLdmJf4wE2Af8D3JvFzfPCKdEs",
       "https://music.youtube.com/playlist?list=OLAK5uy_kUDpgk4yWnyIVfpftIeU0icvhlKAROmx0"
       ]
-
-badmusic = ["https://music.youtube.com/playlist?list=OLAK5uy_lcDE9n6x4ySCRHAQ3xhqEAeIQQXpusa4A"]
+#genres
+hiphop = kanye + tyler + kdot + drake
+electronic = daft
+rock = radiohead + foofighters + beatles + nirvana + pinkfloyd
+soundtracks = vg + movie
+pop = mj
 
 st.title("Album Shuffler")
 musicChoice = st.text_input("shuffles through an artist's albums", )
 st.caption("youtube music only, name the artist or type 'video game' for video game music")
-st.caption("project will get constantly updated with album suggestions from u guys, so rn it doesn't have too many albums outside of my favorite artists")
-if musicChoice:
-    choice = musicChoice.lower().strip()
-    
+st.caption("not every artist is here, so pls suggest some if u want")
 if musicChoice:
     choice = musicChoice.lower().strip()
     
@@ -186,13 +187,17 @@ if musicChoice:
         url = random.choice(drake)
     elif choice in ["mj", "michael jackson", "michaeljackson"]:
         url = random.choice(mj)
+    elif choice in ["hip hop", "hiphop", "rap"]:
+        url = random.choice(hiphop)
+    elif choice in ["electronic", "edm", "electro"]:
+        url = random.choice(electronic)
+    elif choice in ["rock"]:
+        url = random.choice(rock)
+    elif choice in ["soundtracks"]:
+        url = random.choice(soundtracks)
+    
     else:
         url = None
-        
-    if url:
-        st.link_button("click here pls", url)
-    else:
-        st.error("who????")
 
 st.link_button("wanna add albums? click here", "https://docs.google.com/forms/d/e/1FAIpQLScHWov8uIiYv_lZKnfjKkjdjZxGSIihmab4VLbwQvvlmmsiUw/viewform?usp=header")
 #python3 -m streamlit run "albumThingy3.py" 
