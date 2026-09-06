@@ -50,6 +50,15 @@ vg = [
     "https://music.youtube.com/playlist?list=PLmOldskd2VbL7_t-NE9p6rEboq_v0AHko"
 
 ]
+kdot = [
+    "https://music.youtube.com/playlist?list=OLAK5uy_ltzpNncYEZXvj2j59gFt303ciBHYBdVHg",
+    "https://music.youtube.com/playlist?list=OLAK5uy_mP3LkB5O8-7fbX4X5eRBKU1cLXMwG2Bm8",
+    "https://music.youtube.com/playlist?list=OLAK5uy_k5mTVnRXWZS09BKOn7_zelGY5k0beDga4",
+    "https://music.youtube.com/playlist?list=OLAK5uy_lONzr2WDx7bOXJWJNC1YloDy76sCBUHyw",
+    "https://music.youtube.com/playlist?list=OLAK5uy_kqTVP9PZstmXkaT9gXjuTXdXwxM9_Jroc",
+    "https://music.youtube.com/playlist?list=OLAK5uy_m_zl1RNdUJwiB2Yi1ExSwNQ0Vh3U0-LBQ",
+
+]
 badmusic = ["https://music.youtube.com/playlist?list=OLAK5uy_lcDE9n6x4ySCRHAQ3xhqEAeIQQXpusa4A"]
 
 st.title("Album Shuffler")
@@ -69,6 +78,8 @@ if musicChoice:
         url = random.choice(vg)
     elif choice == "bad music":
         url = random.choice(badmusic)
+    elif choice in ["kdot", "kendrick", "kendrick lamar"]:
+        url = random.choice(kdot)
     else:
         url = None
         
