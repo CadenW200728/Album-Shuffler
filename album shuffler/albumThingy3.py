@@ -43,13 +43,32 @@ tyler = [
 vg = [
     "https://music.youtube.com/playlist?list=OLAK5uy_nVHqThCEHTYZVtf5mTHjC8PlD43CLwUFM",
     "https://music.youtube.com/playlist?list=PLwjEXrvFo-2B7iCX61eOThc_oGihi84l9",
-    "https://music.youtube.com/playlist?list=OLAK5uy_m0g1k6",
+    "https://music.youtube.com/playlist?list=OLAK5uy_nhQ2EVQRbH-uWJbaesYXRQGZMzinN0qqg",
     "https://music.youtube.com/playlist?list=OLAK5uy_ljXkQlhVlWyV7BxSxMMzgOLbzYS_-JPt4",
     "https://music.youtube.com/playlist?list=OLAK5uy_lhJqCASxMaouiWs66Vizl61JadKWAcupI",
     "https://music.youtube.com/playlist?list=OLAK5uy_leUaxUf5Fy9d5cllRNdNOEljXZfFU5yEA",
-    "https://music.youtube.com/playlist?list=PLmOldskd2VbL7_t-NE9p6rEboq_v0AHko"
+    "https://music.youtube.com/playlist?list=PLmOldskd2VbL7_t-NE9p6rEboq_v0AHko",
+    "https://music.youtube.com/playlist?list=OLAK5uy_nnY0s7ogC6wEI85M_C9NrMLLv6lWOQxqY"
 
 ]
+
+movie = ["https://music.youtube.com/playlist?list=PLpRjkOHBe_TgmznCle__jWDhoV4aFgCjw",
+        "https://music.youtube.com/playlist?list=OLAK5uy_mE5qofGJLnPOnR-msAa-lIoYPuzCJsbqg",
+        "https://music.youtube.com/playlist?list=OLAK5uy_kuK1ARRMlYf4cu68la2kIUz8Ji2KIoT0c",
+        "https://music.youtube.com/playlist?list=OLAK5uy_k8XkxQFGZhSX8gENqaH6pg1xz8vOTnzQs",
+        "https://music.youtube.com/playlist?list=PLy7D1yMoeOF6TG5G6-RCuzgClxXGsFB0U",
+        "https://music.youtube.com/playlist?list=OLAK5uy_nufJ7u7NEq73QyRj78Bsr60c4Fl9xHfhw",
+        "https://music.youtube.com/playlist?list=OLAK5uy_n90Ggeh_hENyTJCiF0bD6y914EN5WTDcI",
+        "https://music.youtube.com/playlist?list=OLAK5uy_myCew62AQBU-0W19WPM133HicoHJUxQII",
+         ]
+
+daft = ["https://music.youtube.com/playlist?list=OLAK5uy_mfg6NA2Q6rWf2THgxCy4kLKAu7gSy0OrA",
+        "https://music.youtube.com/playlist?list=OLAK5uy_mz6eafmqdRHSaR4IwG0ll6J6rgv0_ZpGw",
+        "https://music.youtube.com/playlist?list=OLAK5uy_mEC7F1xzswzJY4ljJCZxhq_l3ZKVwdAE0",
+        "https://music.youtube.com/playlist?list=OLAK5uy_kNhM2yaBTOVwrcZJepB1C9P3-n5_Sfy5c"]
+
+badmusic = ["https://music.youtube.com/playlist?list=OLAK5uy_lcDE9n6x4ySCRHAQ3xhqEAeIQQXpusa4A"]
+
 kdot = [
     "https://music.youtube.com/playlist?list=OLAK5uy_ltzpNncYEZXvj2j59gFt303ciBHYBdVHg",
     "https://music.youtube.com/playlist?list=OLAK5uy_mP3LkB5O8-7fbX4X5eRBKU1cLXMwG2Bm8",
@@ -106,6 +125,28 @@ foofighters = ["https://music.youtube.com/playlist?list=OLAK5uy_lWAJFIKQJKBnaVpl
                "https://music.youtube.com/playlist?list=OLAK5uy_k4xx-4vNuW2YGFFBjA5az4MAxEPinuAQo",
                "https://music.youtube.com/playlist?list=OLAK5uy_lBzRHIupm6Em5U6sjeDEnhSwjQg7Yi3Wk",
                "https://music.youtube.com/playlist?list=OLAK5uy_mK_-lq7b_lUQJK_H0PoIQZIsIl6a4Gkrg"]
+drake = ["https://music.youtube.com/playlist?list=OLAK5uy_mtzMkd37EtMYa866S5deO_g8IHoHwm5WY",
+         "https://music.youtube.com/playlist?list=OLAK5uy_lcDE9n6x4ySCRHAQ3xhqEAeIQQXpusa4A",
+         "https://music.youtube.com/playlist?list=OLAK5uy_mDJQ6HxsusQs5OIRkgyF9zixrv1PHhowE",
+         "https://music.youtube.com/playlist?list=OLAK5uy_mOGt00VGQtgn7VM3LyVC5gIAUsx6Gd9XU",
+         "https://music.youtube.com/playlist?list=OLAK5uy_kY8dtv44revO4EYCIUOAgYfrWo9a_DQu0",
+         "https://music.youtube.com/playlist?list=OLAK5uy_nASZ91BLkwjQyVGZYqyYxfNafT5Np5g8A",
+         "https://music.youtube.com/playlist?list=OLAK5uy_mohWCfICkz2hGDpW37VfU5BhNGBp__g8E",
+         "https://music.youtube.com/playlist?list=OLAK5uy_na_qnYnNCbsE864dnFpM8S78rZxBM9ksA",
+         "https://music.youtube.com/playlist?list=OLAK5uy_nXeJmdRleb0huIiqiajJHNwU1nQyxJ4jg",
+         "https://music.youtube.com/playlist?list=OLAK5uy_lKouR3b3iarfXfc31uj52NU9wcVKfZ5Yg",
+         "https://music.youtube.com/playlist?list=OLAK5uy_mfmtfL0TzphJF46gDiCIyj2Lwk23eibtY",
+         "https://music.youtube.com/playlist?list=OLAK5uy_mmdeqCJfSAiPkcJiowuR220YCy-9zIN2c",
+         "https://music.youtube.com/playlist?list=OLAK5uy_lKHB7W1HFDIXp0CQDja4KOlR5HNSeYG6U",
+         "https://music.youtube.com/playlist?list=OLAK5uy_lDzklZqvl-Xyh-qotlTUozpaMDUPKr1Y8",
+         "https://music.youtube.com/playlist?list=OLAK5uy_mXmZ7g86CVTU7i1_zrXw_KRLPFwxGJq1E"]
+mj = ["https://music.youtube.com/playlist?list=OLAK5uy_kcoRvXuX8AWWr5W2HyOPnwp4i11UfdryY",
+      "https://music.youtube.com/playlist?list=OLAK5uy_lQq3vGlP81JruELvDx3izUej85ZXIhoLA",
+      "https://music.youtube.com/playlist?list=OLAK5uy_l1U925dsiDi2DqlG-KCbODG6BaibpxbQE",
+      "https://music.youtube.com/playlist?list=OLAK5uy_m9ELAPGUnHtlIMV6T_bDb6YsiSKu5cI7M",
+      "https://music.youtube.com/playlist?list=OLAK5uy_nsZm9AscLdmJf4wE2Af8D3JvFzfPCKdEs",
+      "https://music.youtube.com/playlist?list=OLAK5uy_kUDpgk4yWnyIVfpftIeU0icvhlKAROmx0"
+      ]
 
 badmusic = ["https://music.youtube.com/playlist?list=OLAK5uy_lcDE9n6x4ySCRHAQ3xhqEAeIQQXpusa4A"]
 
@@ -139,6 +180,12 @@ if musicChoice:
         url = random.choice(pinkfloyd)
     elif choice in ["foo fighters", "foofighters"]:
         url = random.choice(foofighters)
+    elif choice in ["daft punk", "daftpunk"]:
+        url = random.choice(daft)
+    elif choice in ["drake"]:
+        url = random.choice(drake)
+    elif choice in ["mj", "michael jackson", "michaeljackson"]:
+        url = random.choice(mj)
     else:
         url = None
         
