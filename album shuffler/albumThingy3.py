@@ -59,12 +59,63 @@ kdot = [
     "https://music.youtube.com/playlist?list=OLAK5uy_m_zl1RNdUJwiB2Yi1ExSwNQ0Vh3U0-LBQ",
 
 ]
+
+beatles = ["https://music.youtube.com/playlist?list=OLAK5uy_mSQvIHDf7UlQDi_TcmXbq_7aY8-7-99W8",
+           "https://music.youtube.com/playlist?list=OLAK5uy_mM7D2y0gEKaLqXbK-nWgih4f-YHCmU-Ac",
+           "https://music.youtube.com/playlist?list=OLAK5uy_kNANFuHzr_3bZH3S5aXxOT4X1ouKnjY4k",
+           "https://music.youtube.com/playlist?list=OLAK5uy_lY9ogwwjXTNY47v6bolSPmWE5gihcV8aQ",
+           "https://music.youtube.com/playlist?list=OLAK5uy_lJlBwY8J0ezSODyk5eXLUlq8wCBVGybD4",
+           "https://music.youtube.com/playlist?list=OLAK5uy_lirCIxLpU2odTVLZ_Sbo1wZaeu5IStivs",
+           "https://music.youtube.com/playlist?list=OLAK5uy_kNH5_0dq0SINuzQFBDRKoCCcO0aTcGxoo",
+           "https://music.youtube.com/playlist?list=OLAK5uy_k0N28ttgCjdEqyy02W7h0v1Kg78hs9AnM",
+           "https://music.youtube.com/playlist?list=OLAK5uy_kxk_lSv8ZOf-eZeqp627XdaEIOozc34Ec",
+           "https://music.youtube.com/playlist?list=OLAK5uy_ngFkZaiOccd84mOWCf4mZKbJrvsPzm8BE",
+           "https://music.youtube.com/playlist?list=OLAK5uy_nd7utIrpWh7bhjrtPLbtuWzbZ5o9u48fU",
+           "https://music.youtube.com/playlist?list=OLAK5uy_lqcFZTOPHGwcnP0nYMzNuY0IES0fl7Fe4",
+           "https://music.youtube.com/playlist?list=OLAK5uy_nt1EGRLs8dljkOjozHvbrbSy_QEzn316s"]
+
+nirvana = ["https://music.youtube.com/playlist?list=OLAK5uy_l33lV-pSSSn7IHoVBPYrblCO9mLI5ICVc",
+           "https://music.youtube.com/playlist?list=OLAK5uy_nswo1jp2sgcPk7n2cCRlEiEMfA6xLEqHE",
+           "https://music.youtube.com/playlist?list=OLAK5uy_nbu8EUmXmbBb24DoOx_H7NBV_PKlo3Ku8"]
+
+pinkfloyd = ["https://music.youtube.com/playlist?list=OLAK5uy_nCBf4OZxhktV5fD5m1MSPW-MT5Q5X1M3Y",
+              "https://music.youtube.com/playlist?list=OLAK5uy_n-lE02j8pQkwGhsL5JLAPvbBAoAmxh9n8",
+              "https://music.youtube.com/playlist?list=OLAK5uy_lcQR3_itj5ZqeRVJZiu-nqsAiVIyFQohg",
+              "https://music.youtube.com/playlist?list=OLAK5uy_mGR_R8SnyfX250Oy5Z3FVWmkESuCN_nVU",
+              "https://music.youtube.com/playlist?list=OLAK5uy_nM82AUr-l5OxTITeZBbC6MqZpk9JxD_OE",
+              "https://music.youtube.com/playlist?list=OLAK5uy_lrCrcAdxFG4aMzMrebs7o9TU384xyF240",
+              "https://music.youtube.com/playlist?list=OLAK5uy_klU9jB4SMO5SqEyFazPAVbDek2j0JVQxY",
+              "https://music.youtube.com/playlist?list=OLAK5uy_k6DQIzfcQ94K-SZ2nlQicUOafxFeTCRaQ",
+              "https://music.youtube.com/playlist?list=OLAK5uy_loKmzl_a690GUTO3O3irATW-Q60Czk9BI",
+              "https://music.youtube.com/playlist?list=OLAK5uy_lPp-jqBS8UtWe9J4F_uADQZzFXr8JoOGA",
+              "https://music.youtube.com/playlist?list=OLAK5uy_lWz_Ssalk7J_B0jX5efv9bOrOiMTIVPIw",
+              "https://music.youtube.com/playlist?list=OLAK5uy_n_fyQF2s8mD_vYN-7uQyvNgwXd5xZNrFY",
+              "https://music.youtube.com/playlist?list=OLAK5uy_kynAU1oQ9BgUqD1N9TujSDfcwA_s_dfK0",
+              "https://music.youtube.com/playlist?list=OLAK5uy_mz6yoUOJXZzgMr4WLF2y0FX3nfQnhioco",
+              "https://music.youtube.com/playlist?list=OLAK5uy_kIzCuwkECvcJgM0awvX4ACzkt3EvPydqI"]
+
+foofighters = ["https://music.youtube.com/playlist?list=OLAK5uy_lWAJFIKQJKBnaVplK6ywu6U5HQQifQJHY",
+               "https://music.youtube.com/playlist?list=OLAK5uy_keHNwGuJwFejyBIaVLfXlsRA-kPl2MXTQ",
+               "https://music.youtube.com/playlist?list=OLAK5uy_mW9ozOeQDl63XvRyc-L9LewDnqu_ZfZI0",
+               "https://music.youtube.com/playlist?list=OLAK5uy_n-cqA721qq5Va8PRNHK2jmNUYdxTF7CfI",
+               "https://music.youtube.com/playlist?list=OLAK5uy_lkxVUNUmQt2cXv8zeQIW9qpBdU4le13yg",
+               "https://music.youtube.com/playlist?list=OLAK5uy_nxn8Zv2ewQJB-bOHbholRKxn_-3-zaTx0",
+               "https://music.youtube.com/playlist?list=OLAK5uy_kPx0BRDUEVby17Y40h2KOC9Cfwvr1dM_k",
+               "https://music.youtube.com/playlist?list=OLAK5uy_ntJojboFE3gTUB4vppIK8N6_LwsGrTtGA",
+               "https://music.youtube.com/playlist?list=OLAK5uy_mTM3fbXnDfIyUwOOSvCTi5dJvRNTP1bqE",
+               "https://music.youtube.com/playlist?list=OLAK5uy_k4xx-4vNuW2YGFFBjA5az4MAxEPinuAQo",
+               "https://music.youtube.com/playlist?list=OLAK5uy_lBzRHIupm6Em5U6sjeDEnhSwjQg7Yi3Wk",
+               "https://music.youtube.com/playlist?list=OLAK5uy_mK_-lq7b_lUQJK_H0PoIQZIsIl6a4Gkrg"]
+
 badmusic = ["https://music.youtube.com/playlist?list=OLAK5uy_lcDE9n6x4ySCRHAQ3xhqEAeIQQXpusa4A"]
 
 st.title("Album Shuffler")
 musicChoice = st.text_input("shuffles through an artist's albums", )
 st.caption("youtube music only, name the artist or type 'video game' for video game music")
 st.caption("project will get constantly updated with album suggestions from u guys, so rn it doesn't have too many albums outside of my favorite artists")
+if musicChoice:
+    choice = musicChoice.lower().strip()
+    
 if musicChoice:
     choice = musicChoice.lower().strip()
     
@@ -80,6 +131,14 @@ if musicChoice:
         url = random.choice(badmusic)
     elif choice in ["kdot", "kendrick", "kendrick lamar"]:
         url = random.choice(kdot)
+    elif choice in ["beatles", "the beatles"]:
+        url = random.choice(beatles)
+    elif choice in ["nirvana"]:
+        url = random.choice(nirvana)
+    elif choice in ["pink floyd", "pinkfloyd"]:
+        url = random.choice(pinkfloyd)
+    elif choice in ["foo fighters", "foofighters"]:
+        url = random.choice(foofighters)
     else:
         url = None
         
